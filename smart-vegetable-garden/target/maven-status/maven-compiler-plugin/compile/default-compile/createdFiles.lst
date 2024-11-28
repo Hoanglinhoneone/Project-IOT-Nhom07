@@ -1,0 +1,8 @@
+com\smartgarden\repository\SensorDataRepository.class
+com\smartgarden\service\MqttSubscriberService$1.class
+com\smartgarden\service\MqttSubscriberService.class
+com\smartgarden\SmartVegetableGardenApplication.class
+com\smartgarden\controller\SensorDataController.class
+com\smartgarden\model\SensorData.class
+com\smartgarden\specifications\SensorDataSpecifications.class
+com\smartgarden\service\SensorDataService.class
